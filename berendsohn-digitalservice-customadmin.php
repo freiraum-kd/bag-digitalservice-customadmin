@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Berendsohn Digital Service Custom Admin
+ * Plugin Name:       Berendsohn Digital Service - Custom Admin
  * Plugin URI:        https://berendsohn-digitalservice.de
  * Description:       Übergeordnete Funktionen/Anpassungen für Berendsohn-Webseiten (Custom Admin Rolle).
  * Version:           1.0.1
