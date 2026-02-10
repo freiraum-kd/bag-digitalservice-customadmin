@@ -3,7 +3,7 @@
  * Plugin Name:       Berendsohn Digital Service - Custom Admin
  * Plugin URI:        https://berendsohn-digitalservice.de
  * Description:       Custom Admin Rolle & Capabilities für Berendsohn-Webseiten.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            Berendsohn
  * Author URI:        https://berendsohn-digitalservice.de
  * Text Domain:       berendsohn-digitalservice-customadmin
@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
 /**
  * ✅ Eigene Prefixe, damit es NICHT mit dem Core-Plugin kollidiert
  */
-define( 'BDS_CA_VERSION', '1.0.1' );
+define( 'BDS_CA_VERSION', '1.0.2' );
 define( 'BDS_CA_FILE', __FILE__ );
 define( 'BDS_CA_PATH', plugin_dir_path( __FILE__ ) );
 define( 'BDS_CA_URL', plugin_dir_url( __FILE__ ) );
